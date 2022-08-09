@@ -1,4 +1,4 @@
-CANDIDATURE GOES LIKE THIS,
+Heyy Technophiles!
  
 Techhead |Eager Learner| Content Writer| Proficient Orator| Training Lead| Persuasion
 
