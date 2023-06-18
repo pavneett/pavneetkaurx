@@ -8,6 +8,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavneetkaurx" alt="pavneetkaurx" /></a> </p>
 
 
+<h3 align="left">About me:</h3>
+
 - 🔭 I’m currently persuing **Bachelors in Computer Science and Engineering from Guru Gobind Singh Indraprastha University.I'm a passionate learner, who's always willing to learn and work across technologies and domains.**
 
 - 🌱 I’m currently learning **immersive frontend web development and data structures and algorithms.**
@@ -18,7 +20,7 @@
 
 - 📫 How to reach me **pavneetkaur58@gmail.com**
 
--📄 Know about my experiences https://drive.google.com/file/d/1nTRCXy-_YZxjJHsvHZT3LBK2AoWgoHT5/view?usp=sharing
+- 📄 Know about my experiences  https://drive.google.com/file/d/1nTRCXy-_YZxjJHsvHZT3LBK2AoWgoHT5/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
