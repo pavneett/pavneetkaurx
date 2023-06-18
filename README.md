@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Pavneet Kaur</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavneetkaurx&label=Profile%20views&color=0e75b6&style=flat" alt="pavneetkaurx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavneetkaurx" alt="pavneetkaurx" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pavneet2020" target="blank"><img src="https://img.shields.io/twitter/follow/pavneet2020?logo=twitter&style=for-the-badge" alt="pavneet2020" /></a> </p>
 
 - 🔭 I’m currently persuing **Bachelors in Computer Science and Engineering from Guru Gobind Singh Indraprastha University.I'm a passionate learner, who's always willing to learn and work across technologies and domains.**
 
 - 🌱 I’m currently learning **immersive frontend web development and data structures and algorithms.**
 
-- 🤝 I’m looking for help with **explore new technologies and leverage them to solve real-life problems. Currently on board to enhance coding skills ,getting equipped and proficiency in coding I believe that the mere skills I have attained from the dynamic environment competitive university life define me and I am looking forward to implementing and polishing them in any opportunity that I receive!**
+- 🤝 I’m on board to **explore new technologies and leverage them to solve real-life problems. Currently on board to enhance coding skills ,getting equipped and proficiency in coding I believe that the mere skills I have attained from the dynamic environment competitive university life define me and I am looking forward to implementing and polishing them in any opportunity that I receive!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pavneetkaurx](https://github.com/pavneetkaurx)
 
