@@ -1,4 +1,4 @@
-![image](https://github.com/pavneetkaurx/pavneetkaurx/assets/97126263/a8623c87-a8af-4515-90ba-ba5c5cfbbefb)
+![image]("C:\Users\Pavneet\OneDrive\Desktop\Black Minimal Motivation Quote LinkedIn Banner.png")
 
 
 
