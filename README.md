@@ -1,6 +1,4 @@
-![image]("C:\Users\Pavneet\OneDrive\Desktop\Black Minimal Motivation Quote LinkedIn Banner.png")
-
-
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/pavneetkaurx/pavneetkaurx/assets/97126263/2870e9a1-e24e-40c5-ac51-4caad2e7ea5b)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavneetkaurx&label=Profile%20views&color=0e75b6&style=flat" alt="pavneetkaurx" /> </p>
